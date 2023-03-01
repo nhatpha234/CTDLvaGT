@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<conio.h>
+struct Diem
+float x;
+float y
+
+}
+
+typedef struct Diem DIEM.
+
+void NhapDiem(DIEM &);
+
+void XuấtDiem(DIEM)
+
+struct Duong Tran
+
+DIEM I
+
+float R
+
+typedef struct DuongTron DUONGTRON void NhapDuong Tron (DUONG TRON &
+
+void XuatDuong Tron(DUONGTRON):
